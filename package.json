@@ -1,7 +1,7 @@
 {
   "name": "sync-gateway",
   "private": true,
-  "version": "0.1.13",
+  "version": "0.1.14",
   "description": "Couchbase Mobile Sync Gateway REST wrapper",
   "homepage": "https://github.com/mderrier/sync-gateway",
   "author": {
@@ -21,6 +21,7 @@
   ],
   "dependencies": {
     "release-it": "^2.3.1",
+    "remove-trailing-slash": "^0.1.0",
     "request-promise": "^3.0.0",
     "superheroes": "^1.0.0"
   },
